@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.5.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="dz.karnet.app.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="attr[materialButtonOutlinedStyle(R),selectableItemBackgroundBorderless(R)],color[red_light(U),green_light(U),card_bg(U),green_primary(U),screen_bg(U),gold_accent(U),ink(U),green_dark(U),red_debt(U),muted(U)],drawable[ic_launcher(U),bg_badge_debt(U),bg_badge_pay(U),bg_card(U),bg_header(U)],id[tvDetailName(U),tvDetailInfo(U),tvDetailBalance(U),btnAddDebt(U),btnAddPayment(U),btnDeleteCustomer(U),rvOperations(U),tvEmptyOps(U),tvTotalDue(U),tvDebtors(U),tvCustomers(U),etSearch(U),tvStats(U),rvCustomers(U),tvEmpty(U),fabAdd(U),etName(U),etPhone(U),etNote(U),etAmount(U),etDesc(U),tvName(U),tvMeta(U),tvBalance(U),tvBadge(U),tvOpTitle(U),tvOpDate(U),tvOpAmount(U),btnDeleteOp(U)],layout[activity_customer_detail(U),activity_main(U),dialog_add_customer(U),dialog_transaction(U),item_customer(U),item_operation(U)],string[app_name(U),balance(U),currency_dzd(U),add_debt(U),add_payment(U),operations(U),delete_customer(U),no_operations(U),total_due(U),debtors_count(U),customers_count(U),search_hint(U),no_customers(U),add_customer(U),customer_name(U),customer_name_hint(U),customer_phone(U),customer_phone_hint(U),customer_note(U),amount(U),amount_hint(U),description(U),description_hint(U),delete(U),total_lent(U),total_paid(U),add(U),cancel(U),save(U),confirm(U),no_search_results(U),err_name_required(U),err_amount_invalid(U),err_payment_exceeds(U),msg_customer_added(U),msg_customer_deleted(U),msg_debt_added(U),msg_payment_added(U),msg_operation_deleted(U),ask_delete_customer(U),ask_delete_operation(U),debt_label(U),payment_label(U),all_settled(U),phone_label(U),note_label(U),since_label(D)],style[Theme_Karnet(U),Theme_Material3_DayNight_NoActionBar(R)];d^2,e^3,f^4,10^5,2e^6^10^35^36^7^37^8^38^9^39^3a^a^0^3b^b,2f^6^10^34^3c^36^3d^3e^f^3f^b^40^41^5,30^42^43^44^45^46,31^47^48^49^4a,32^f^8^b^36,33^f^8^b^1^4b,63^64^5^3^9;;;"/>
+        <location id="R.string.since_label"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="49"
+            column="13"
+            startOffset="2748"
+            endLine="49"
+            endColumn="31"
+            endOffset="2766"/>
+    </map>
+
+</incidents>

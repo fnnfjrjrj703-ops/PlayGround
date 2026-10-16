@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/drawable_bg_badge_pay.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/drawable/bg_badge_pay.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/drawable_ic_launcher.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/layout_dialog_add_customer.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/layout/dialog_add_customer.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/layout_item_operation.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/layout/item_operation.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/drawable_bg_card.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/drawable_bg_badge_debt.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/drawable/bg_badge_debt.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/layout_activity_customer_detail.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/layout/activity_customer_detail.xml"
+    },
+    {
+        "merged": "dz.karnet.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "dz.karnet.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/drawable_bg_header.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/layout_dialog_transaction.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/layout/dialog_transaction.xml"
+    },
+    {
+        "merged": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-debug-32:/layout_item_customer.xml.flat",
+        "source": "/home/runner/.gradle/daemon/8.7/dz.karnet.app-main-34:/layout/item_customer.xml"
+    }
+]
